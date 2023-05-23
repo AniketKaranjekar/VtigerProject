@@ -9,3 +9,4 @@ driver.manage().window().maximize();
 driver.manage().window().maximize();driver.manage().window().maximize();
 driver.manage().window().maximize();
 driver.manage().window().maximize();
+public static void main
