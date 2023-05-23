@@ -24,3 +24,6 @@
      <h1>WELCOME TO GIT</h1>
   </body>
 </html
+
+driver.manage().window().maximize();
+driver.manage().window().minimize();
